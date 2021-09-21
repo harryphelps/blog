@@ -7,7 +7,7 @@ googleAnalytics = ""
 
 [params]
     author = "Harry Phelps"
-    description = "Running, Coding and Cooking"
+    description = "Running, coding and cooking."
     githubUsername = "#"
     accent = "red"
     showBorder = true
@@ -35,6 +35,11 @@ googleAnalytics = ""
 [[menu.main]]
     url = "/projects/"
     name = "Projects"
+    weight = 4
+
+[[menu.main]]
+    url = "/til/"
+    name = "TIL"
     weight = 4
 
 # Social icons to be shown on the right-hand side of the navigation bar.
