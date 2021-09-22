@@ -1,5 +1,5 @@
 ---
-title: "What a Postmaster File Is"
+title: "What a postmaster.pid File Is"
 date: 2021-09-22T11:58:16+01:00
 draft: false
 ---
