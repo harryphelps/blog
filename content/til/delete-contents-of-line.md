@@ -1,5 +1,5 @@
 ---
-title: "Delete Contents of Line"
+title: "Vim Delete Contents of Line"
 date: 2021-09-22T07:36:11+01:00
 draft: false
 ---
