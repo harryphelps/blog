@@ -1,5 +1,5 @@
 ---
-title: "What Is an Asg"
+title: "What Is an ASG"
 date: 2022-03-17T16:56:50Z
 draft: false
 ---
